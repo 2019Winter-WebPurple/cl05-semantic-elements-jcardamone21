@@ -1,0 +1,29 @@
+/*
+* Jennifer Cardamone
+* April 12, 2019
+* Semantic Elements
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body { /* Properties of the body */
+        background-color: floralwhite;
+        font-family: "Arial Black", sans-serif;
+        width: 85%;
+        margin: auto;
+}
+    
+header { 
+        background-color: violet; }
+
+main { 
+        background-color: pink; }
+
+footer { 
+        background-color: palevioletred; }
